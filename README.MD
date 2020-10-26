@@ -1,4 +1,4 @@
-This is a project about a three that "grow" on an e-paper display. It updates once a day and a new randomly generated one comes after a week. It's meant to be a low power project so that it can last a long time on simple batteries.
+This is a project about a tree that "grow" on an e-paper display. It updates once a day and a new randomly generated one comes after a week. It's meant to be a low power project so that it can last a long time on simple batteries.
 
 Here you can find the Arduino code that run with it and the OpenSCAD file for the 3d printed frame. It's not well cleaned for publication but it's here for the curious.
 
